@@ -3,14 +3,14 @@
   <title>AEE 2027</title>
   <subtitle>Agent Engineering Economics</subtitle>
   <id>urn:aee:workshop:2027</id>
-  <updated>2026-10-15T00:00:00Z</updated>
+  <updated>2026-10-16T00:00:00Z</updated>
   <link href="https://aee-workshop.github.io/"/>
   <link href="https://aee-workshop.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <entry>
     <title>AEE 2027 preliminary website</title>
     <id>urn:aee:workshop:2027:preliminary-website</id>
-    <updated>2026-10-15T00:00:00Z</updated>
+    <updated>2026-10-16T00:00:00Z</updated>
     <author><name>AEE Organizers</name></author>
-    <content type="text">AEE 2027 is proposed for FSE 2027. Organizers, the tentative program committee, submission types, and eligibility have been updated. Tentative 2027 deadlines (AoE): submission February 11; notification March 18; camera-ready April 8.</content>
+    <content type="text">AEE 2027 is proposed for FSE 2027. Building on software engineering economics, the workshop explores resource allocation, cost–benefit trade-offs, and value creation throughout the lifecycle of AI agent systems. The overview and topics have been updated. Tentative 2027 deadlines (AoE): submission February 11; notification March 18; camera-ready April 8.</content>
   </entry>
 </feed>
